@@ -1,0 +1,15 @@
+{
+  "name": "tugas-pekanan-5-deasty",
+  "version": "1.0.0",
+  "description": "testing ui using cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run",
+    "open": "npx cypress open"
+  },
+  "author": "deasty",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.16.0"
+  }
+}
